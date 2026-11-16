@@ -67,7 +67,7 @@
 
 ### 🚀 Highlighted Work & Projects
 
-- **📱 APP FQ** *(Actively in Progress)*
+- **📱 [FQ-UP — Cystic Fibrosis Health Companion](https://github.com/hirasheiikh/FQ-UP)** *(Actively in Progress)*
   > Mobile application designed for cystic fibrosis awareness, tracking, and patient support. Originally built as an award-winning Baccalaureate research project and currently being completely revamped with improved architecture and refined UI/UX.
 
 - **🎮 [2D Unity Platformer Game](https://github.com/hirasheiikh/Juego-Unity)**
