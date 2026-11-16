@@ -5,8 +5,9 @@
 ### 🎓 Informatics Engineering Student @ UPC (FIB) · 🧪 QA & Validation in AI @ Grifols
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hira%20Sheikh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hira-sheikh-ahmed/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-hirasheiikh.github.io-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hirasheiikh.github.io)
 [![Email](https://img.shields.io/badge/Email-hira.sheikh.ahmed%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hira.sheikh.ahmed@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Barcelona%2C%20Catalunya-6366F1?style=for-the-badge&logo=google-maps&logoColor=white)](https://goo.gl/maps/Barcelona)
+[![Location](https://img.shields.io/badge/Location-Barcelona%2C%20Catalunya-475569?style=for-the-badge&logo=google-maps&logoColor=white)](https://goo.gl/maps/Barcelona)
 
 </div>
 
@@ -14,34 +15,51 @@
 
 ### 💫 About Me
 
-- 🎓 **Education:** Pursuing my Degree in **Informatics Engineering (Computer Science)** at **Universitat Politècnica de Catalunya (UPC · FIB)**, specializing in **Information Systems, Cloud Computing, Artificial Intelligence, Cybersecurity & Software Development**.
-- 🧪 **Current Role:** Quality Assurance & Validation in Artificial Intelligence Intern at **Grifols**, automating test suites and validation workflows across cloud architectures and regulated **GxP** environments (IAM, logical security, software quality compliance).
-- 📱 **Active Project:** Actively revamping and enhancing **APP FQ** — modernizing its software architecture, expanding medical support features, and refining the mobile UI/UX.
-- 🎮 **Game Development:** Designed and programmed a complete 2D platformer in **Unity (C#)** featuring 5 progressive levels, collision systems, and 6 custom powerups.
+- 🎓 **Education:** Pursuing my Degree in **Informatics Engineering (Computer Science)** at **Universitat Politècnica de Catalunya (UPC · FIB)**, focused on **Information Systems, Cloud Computing, Artificial Intelligence, Cybersecurity & Software Development**.
+- 🧪 **Current Role:** Quality Assurance & Validation in Artificial Intelligence Intern at **Grifols**, automating test suites and validation workflows across cloud architectures and regulated **GxP** environments (IAM, logical security, software quality compliance, ServiceNow, ALM, DCM).
+- 📱 **Active Project:** Actively revamping and enhancing **APP FQ** — modernizing software architecture, expanding medical support features, and refining UI/UX.
+- 🎮 **Game Development:** Designed and programmed a complete 2D platformer in **Unity (C#)** featuring 5 progressive levels, collision systems, and 6 custom powerups (see [Juego-Unity](https://github.com/hirasheiikh/Juego-Unity)).
 - 🤝 **Leadership & Community:** 3 years as a certified camp and youth leisure monitor at **Esplai Sant Vicenç de Sarrià**, and annual volunteer at **HackUPC** and **Banc dels Aliments**.
 
 ---
 
-### 🛠️ Languages, Frameworks & Tools
+### 🛠️ Tech Stack & Tooling
 
 <div align="center">
 
-#### Programming Languages
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+#### Languages & Markup
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-#### Technologies & Environments
-![Unity](https://img.shields.io/badge/Unity_2D-100000?style=flat-square&logo=unity&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Cloud](https://img.shields.io/badge/Cloud_Architecture-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cisco_Cybersecurity-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+#### Systems, Infrastructure & Networks
+![GNU/Linux](https://img.shields.io/badge/GNU%2FLinux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-005571?style=for-the-badge&logo=cisco&logoColor=white)
+![Cloud Architecture](https://img.shields.io/badge/Cloud_Architecture-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+#### Databases & Data Modeling
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### QA, Compliance & Enterprise Management
+![ServiceNow](https://img.shields.io/badge/ServiceNow-81B5A1?style=for-the-badge&logo=servicenow&logoColor=white)
+![ALM](https://img.shields.io/badge/ALM-Lifecycle_Mgmt-2563EB?style=for-the-badge&logo=jira&logoColor=white)
+![DCM](https://img.shields.io/badge/DCM-Document_Control-059669?style=for-the-badge&logo=googledrive&logoColor=white)
+![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
+![GxP Compliance](https://img.shields.io/badge/GxP_Validation-QA_in_AI-10B981?style=for-the-badge&logo=checkmarx&logoColor=white)
+
+#### Tools, Engineering & Workflow
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Make](https://img.shields.io/badge/Make-Build_System-427819?style=for-the-badge&logo=gnu&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![UML & Flowcharts](https://img.shields.io/badge/UML_&_Flowcharts-System_Design-8B5CF6?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity_2D-100000?style=for-the-badge&logo=unity&logoColor=white)
 
 </div>
 
@@ -52,10 +70,10 @@
 - **📱 APP FQ** *(Actively in Progress)*
   > Mobile application designed for cystic fibrosis awareness, tracking, and patient support. Originally built as an award-winning Baccalaureate research project and currently being completely revamped with improved architecture and refined UI/UX.
 
-- **🎮 2D Unity Platformer Game**
+- **🎮 [2D Unity Platformer Game](https://github.com/hirasheiikh/Juego-Unity)**
   > Fully playable 2D game built in Unity (C#) featuring 5 distinct level progressions, dynamic player physics, obstacle mechanics, and 6 collectible powerups.
 
-- **🌐 Interactive Developer Portfolio**
+- **🌐 [Interactive Developer Portfolio](https://hirasheiikh.github.io)**
   > Modern, highly interactive personal portfolio crafted with Next.js, Tailwind CSS, Framer Motion, and cursor-reactive canvas aesthetics inspired by Nielsen's Usability Heuristics.
 
 ---
