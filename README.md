@@ -19,7 +19,7 @@
 - 🧪 **Current Role:** Quality Assurance & Validation in Artificial Intelligence Intern at **Grifols**, automating test suites and validation workflows across cloud architectures and regulated **GxP** environments (IAM, logical security, software quality compliance, ServiceNow, ALM, DCM).
 - 📱 **Active Project:** Actively revamping and enhancing **APP FQ** — modernizing software architecture, expanding medical support features, and refining UI/UX.
 - 🎮 **Game Development:** Designed and programmed a complete 2D platformer in **Unity (C#)** featuring 5 progressive levels, collision systems, and 6 custom powerups (see [Juego-Unity](https://github.com/hirasheiikh/Juego-Unity)).
-- 🤝 **Leadership & Community:** 3 years as a certified camp and youth leisure monitor at **Esplai Sant Vicenç de Sarrià**, and annual volunteer at **HackUPC** and **Banc dels Aliments**.
+- 🤝 **Leadership & Community:** 3 years as a certified camp and youth leisure monitor at **Esplai Sant Vicenç de Sarrià**, and volunteer at **HackUPC** (UPC · FIB).
 
 ---
 
