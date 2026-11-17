@@ -2,7 +2,7 @@
 
 # Hira Sheikh Ahmed 👋
 
-### 🎓 Informatics Engineering Student @ UPC (FIB) · 🧪 QA & Validation in AI @ Grifols
+### 🎓 Informatics Engineering Student @ UPC (FIB) · 🧪 AI in QA & Validation @ Grifols
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hira%20Sheikh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hira-sheikh-ahmed/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-hirasheiikh.github.io-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hirasheiikh.github.io)
@@ -16,7 +16,7 @@
 ### 💫 About Me
 
 - 🎓 **Education:** Pursuing my Degree in **Informatics Engineering (Computer Science)** at **Universitat Politècnica de Catalunya (UPC · FIB)**, focused on **Information Systems, Cloud Computing, Artificial Intelligence, Cybersecurity & Software Development**.
-- 🧪 **Current Role:** Quality Assurance & Validation in Artificial Intelligence Intern at **Grifols**, automating test suites and validation workflows across cloud architectures and regulated **GxP** environments (IAM, logical security, software quality compliance, ServiceNow, ALM, DCM).
+- 🧪 **Current Role:** Artificial Intelligence in Quality Assurance & Validation Intern at **Grifols**, automating test suites and validation workflows across cloud architectures and regulated **GxP** environments (IAM, logical security, software quality compliance, ServiceNow, ALM, DCM).
 - 📱 **Active Project:** Actively revamping and enhancing **APP FQ** — modernizing software architecture, expanding medical support features, and refining UI/UX.
 - 🎮 **Game Development:** Designed and programmed a complete 2D platformer in **Unity (C#)** featuring 5 progressive levels, collision systems, and 6 custom powerups (see [Juego-Unity](https://github.com/hirasheiikh/Juego-Unity)).
 - 🤝 **Leadership & Community:** 3 years as a certified camp and youth leisure monitor at **Esplai Sant Vicenç de Sarrià**, and volunteer at **HackUPC** (UPC · FIB).
@@ -51,7 +51,7 @@
 ![ALM](https://img.shields.io/badge/ALM-Lifecycle_Mgmt-2563EB?style=for-the-badge&logo=jira&logoColor=white)
 ![DCM](https://img.shields.io/badge/DCM-Document_Control-059669?style=for-the-badge&logo=googledrive&logoColor=white)
 ![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
-![GxP Compliance](https://img.shields.io/badge/GxP_Validation-QA_in_AI-10B981?style=for-the-badge&logo=checkmarx&logoColor=white)
+![GxP Compliance](https://img.shields.io/badge/GxP_Validation-AI_in_QA-10B981?style=for-the-badge&logo=checkmarx&logoColor=white)
 
 #### Tools, Engineering & Workflow
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
