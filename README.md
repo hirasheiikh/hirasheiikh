@@ -80,12 +80,28 @@
 
 ---
 
+
+---
+
+### 🏛️ UPC · FIB Computer Science Coursework
+
+- 🧠 **[eda-fib](https://github.com/hirasheiikh/eda-fib)** · *Estructures de Dades i Algorismes (C++)*  
+  Graph algorithms (Dijkstra, BFS, DFS), Divide & Conquer, heaps, and algorithmic problem solving.
+- 🧩 **[pro2-fib](https://github.com/hirasheiikh/pro2-fib)** · *Programació 2 (Object-Oriented C++)*  
+  Modular object-oriented architecture, dynamic memory management, binary trees, and Bicing simulation project.
+- ⚙️ **[so-fib](https://github.com/hirasheiikh/so-fib)** · *Sistemes Operatius (C · POSIX)*  
+  Process management (`fork`, `exec`), inter-process communication (`pipes`), asynchronous signals, and Linux system calls.
+- ⚡ **[par-fib](https://github.com/hirasheiikh/par-fib)** · *Paral·lelisme (C · OpenMP)*  
+  Multi-threaded programming with OpenMP, task parallelism (Tareador), vectorization, and speedup performance analysis.
+- 🎨 **[idi-fib](https://github.com/hirasheiikh/idi-fib)** · *Interacció i Disseny d'Interfícies (C++ · OpenGL & Qt)*  
+  Modern OpenGL 3.3 Core Profile graphics, GLSL vertex & fragment shaders, 3D camera projections, and interactive Qt GUIs.
+
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=hirasheiikh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=6366F1&text_color=94A3B8" alt="GitHub Stats" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirasheiikh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=94A3B8" alt="Top Languages" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirasheiikh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=94A3B8&hide=html,shaderlab,hlsl,css&exclude_repo=hirasheiikh.github.io" alt="Top Languages" height="160" />
 
 </div>
 
