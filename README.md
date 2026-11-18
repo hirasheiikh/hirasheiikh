@@ -68,7 +68,7 @@
 ### 🚀 Highlighted Work & Projects
 
 - **🤖 [Autonomous Study Secretary & Planner](https://github.com/hirasheiikh/smart-study-assistant)**
-  > Autonomous, 24/7 cloud-native study planner and secretary born from the habit of taking quick notes on messaging apps. Connects Telegram for mobile task tracking, Vercel serverless crons for daily morning/evening briefings, Google Calendar synchronization, and client-side cryptographic security.
+  > Autonomous, 24/7 cloud-native study planner and secretary born from the habit of taking quick notes on messaging apps. Connects Telegram for mobile task tracking, Vercel serverless crons for daily morning/evening briefings, universal calendar synchronization (Apple Calendar / iOS, Google Calendar, Outlook via dynamic RFC 5545 iCal), and client-side cryptographic security.
 - **📱 [FQ-UP — Cystic Fibrosis Health Companion](https://github.com/hirasheiikh/FQ-UP)** *(Actively in Progress)*
   > Mobile application designed for cystic fibrosis awareness, tracking, and patient support. Originally built as an award-winning Baccalaureate research project and currently being completely revamped with improved architecture and refined UI/UX.
 
