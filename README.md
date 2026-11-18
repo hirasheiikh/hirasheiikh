@@ -101,12 +101,19 @@
 <div align="center">
 
 <a href="https://github.com/hirasheiikh">
-  <img src="https://github-readme-stats.vercel.app/api?username=hirasheiikh&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=4F46E5&icon_color=7C3AED&text_color=1E293B#gh-light-mode-only" alt="GitHub Stats Light" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api?username=hirasheiikh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=6366F1&text_color=94A3B8#gh-dark-mode-only" alt="GitHub Stats Dark" height="160" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hirasheiikh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=6366F1&text_color=94A3B8">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=hirasheiikh&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=4F46E5&icon_color=7C3AED&text_color=1E293B">
+    <img alt="Hira Sheikh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hirasheiikh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=6366F1&text_color=94A3B8" height="160" />
+  </picture>
 </a>
+&nbsp;
 <a href="https://github.com/hirasheiikh">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirasheiikh&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=4F46E5&text_color=1E293B&hide=html,shaderlab,hlsl,css&exclude_repo=hirasheiikh.github.io#gh-light-mode-only" alt="Top Languages Light" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirasheiikh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=94A3B8&hide=html,shaderlab,hlsl,css&exclude_repo=hirasheiikh.github.io#gh-dark-mode-only" alt="Top Languages Dark" height="160" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hirasheiikh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=94A3B8&hide=html,shaderlab,hlsl,css&exclude_repo=hirasheiikh.github.io">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hirasheiikh&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=4F46E5&text_color=1E293B&hide=html,shaderlab,hlsl,css&exclude_repo=hirasheiikh.github.io">
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirasheiikh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=94A3B8&hide=html,shaderlab,hlsl,css&exclude_repo=hirasheiikh.github.io" height="160" />
+  </picture>
 </a>
 
 </div>
