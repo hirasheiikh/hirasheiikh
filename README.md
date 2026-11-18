@@ -100,8 +100,16 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hirasheiikh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=6366F1&text_color=94A3B8" alt="GitHub Stats" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirasheiikh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=94A3B8&hide=html,shaderlab,hlsl,css&exclude_repo=hirasheiikh.github.io" alt="Top Languages" height="160" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hirasheiikh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=6366F1&text_color=94A3B8#gh-dark-mode-only">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=hirasheiikh&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=6366F1&icon_color=8B5CF6&text_color=334155#gh-light-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api?username=hirasheiikh&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=6366F1&icon_color=8B5CF6&text_color=334155#gh-light-mode-only" alt="GitHub Stats" height="160" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hirasheiikh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=94A3B8&hide=html,shaderlab,hlsl,css&exclude_repo=hirasheiikh.github.io#gh-dark-mode-only">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hirasheiikh&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=6366F1&text_color=334155&hide=html,shaderlab,hlsl,css&exclude_repo=hirasheiikh.github.io#gh-light-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirasheiikh&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=6366F1&text_color=334155&hide=html,shaderlab,hlsl,css&exclude_repo=hirasheiikh.github.io#gh-light-mode-only" alt="Top Languages" height="160" />
+</picture>
 
 </div>
 
