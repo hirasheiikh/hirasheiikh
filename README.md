@@ -104,9 +104,9 @@
 
 <a href="https://github.com/hirasheiikh">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hirasheiikh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=6366F1&text_color=94A3B8">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=hirasheiikh&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=4F46E5&icon_color=7C3AED&text_color=1E293B">
-    <img alt="Hira Sheikh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hirasheiikh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=6366F1&text_color=94A3B8" height="160" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hirasheiikh&show_icons=true&include_all_commits=true&hide_rank=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=6366F1&text_color=94A3B8">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=hirasheiikh&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&bg_color=FFFFFF&title_color=4F46E5&icon_color=7C3AED&text_color=1E293B">
+    <img alt="Hira Sheikh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hirasheiikh&show_icons=true&include_all_commits=true&hide_rank=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=6366F1&text_color=94A3B8" height="160" />
   </picture>
 </a>
 &nbsp;
