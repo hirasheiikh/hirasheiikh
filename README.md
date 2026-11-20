@@ -85,10 +85,12 @@
 
 ### 🏛️ UPC · FIB Computer Science Coursework
 
-- 🧠 **[eda-fib](https://github.com/hirasheiikh/eda-fib)** · *Estructures de Dades i Algorismes (C++)*  
-  Graph algorithms (Dijkstra, BFS, DFS), Divide & Conquer, heaps, and algorithmic problem solving.
+- 💻 **[pro1-fib](https://github.com/hirasheiikh/pro1-fib)** · *Programació 1 (C++)*  
+  Imperative programming fundamentals, recursion, vectors, multidimensional matrices, search/sorting algorithms, and over 200 Jutge.org problem sets.
 - 🧩 **[pro2-fib](https://github.com/hirasheiikh/pro2-fib)** · *Programació 2 (Object-Oriented C++)*  
-  Modular object-oriented architecture, dynamic memory management, binary trees, and Bicing simulation project.
+  Modular object-oriented architecture, dynamic memory management, binary trees, 70+ Jutge.org solutions, and Bicing simulation project.
+- 🧠 **[eda-fib](https://github.com/hirasheiikh/eda-fib)** · *Estructures de Dades i Algorismes (C++)*  
+  Graph algorithms (Dijkstra, BFS, DFS), Divide & Conquer, exhaustive search / backtracking, competition game AIs, and 80+ Jutge.org algorithmic solutions.
 - ⚙️ **[so-fib](https://github.com/hirasheiikh/so-fib)** · *Sistemes Operatius (C · POSIX)*  
   Process management (`fork`, `exec`), inter-process communication (`pipes`), asynchronous signals, and Linux system calls.
 - ⚡ **[par-fib](https://github.com/hirasheiikh/par-fib)** · *Paral·lelisme (C · OpenMP)*  
@@ -113,6 +115,20 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hirasheiikh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=94A3B8&hide=html,shaderlab,hlsl,css&exclude_repo=hirasheiikh.github.io">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hirasheiikh&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=4F46E5&text_color=1E293B&hide=html,shaderlab,hlsl,css&exclude_repo=hirasheiikh.github.io">
     <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirasheiikh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=94A3B8&hide=html,shaderlab,hlsl,css&exclude_repo=hirasheiikh.github.io" height="160" />
+  </picture>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/hirasheiikh">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=hirasheiikh&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=6366F1&currStreakLabel=A855F7">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=hirasheiikh&hide_border=true&background=FFFFFF&ring=4F46E5&fire=7C3AED&currStreakLabel=4F46E5">
+    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hirasheiikh&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=6366F1&currStreakLabel=A855F7" height="160" />
   </picture>
 </a>
 
