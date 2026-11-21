@@ -44,6 +44,7 @@
 ![GNU/Linux](https://img.shields.io/badge/GNU%2FLinux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu Terminal](https://img.shields.io/badge/Ubuntu_Terminal-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Oracle VirtualBox](https://img.shields.io/badge/Oracle_VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-005571?style=for-the-badge&logo=cisco&logoColor=white)
 ![Cloud Architecture](https://img.shields.io/badge/Cloud_Architecture-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
@@ -52,14 +53,17 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### QA, Compliance & Enterprise Management
+#### Enterprise, Productivity & Cloud Suites
+![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Google Drive](https://img.shields.io/badge/Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft365&logoColor=white)
+![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-81B5A1?style=for-the-badge&logo=servicenow&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 ![Atlassian](https://img.shields.io/badge/Atlassian-0052CC?style=for-the-badge&logo=atlassian&logoColor=white)
 ![ALM](https://img.shields.io/badge/ALM-Lifecycle_Mgmt-2563EB?style=for-the-badge&logo=jira&logoColor=white)
 ![DCM](https://img.shields.io/badge/DCM-Document_Control-059669?style=for-the-badge&logo=googledrive&logoColor=white)
-![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
 ![GxP Compliance](https://img.shields.io/badge/GxP_Validation-AI_in_QA-10B981?style=for-the-badge&logo=checkmarx&logoColor=white)
 
 #### Tools, Engineering & Simulation
