@@ -27,17 +27,23 @@
 
 <div align="center">
 
-#### Languages & Markup
+#### Languages, Assembly & Computing
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Assembly x86](https://img.shields.io/badge/Assembly%20x86-4EAA25?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![MIPS Assembly](https://img.shields.io/badge/MIPS%20Assembly-005A9C?style=for-the-badge&logo=webassembly&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-ED8B00?style=for-the-badge&logo=mathworks&logoColor=white)
 
-#### Systems, Infrastructure & Networks
+#### Systems, Virtualization & Networks
 ![GNU/Linux](https://img.shields.io/badge/GNU%2FLinux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu Terminal](https://img.shields.io/badge/Ubuntu_Terminal-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Oracle VirtualBox](https://img.shields.io/badge/Oracle_VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-005571?style=for-the-badge&logo=cisco&logoColor=white)
 ![Cloud Architecture](https://img.shields.io/badge/Cloud_Architecture-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
@@ -48,20 +54,31 @@
 
 #### QA, Compliance & Enterprise Management
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-81B5A1?style=for-the-badge&logo=servicenow&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+![Atlassian](https://img.shields.io/badge/Atlassian-0052CC?style=for-the-badge&logo=atlassian&logoColor=white)
 ![ALM](https://img.shields.io/badge/ALM-Lifecycle_Mgmt-2563EB?style=for-the-badge&logo=jira&logoColor=white)
 ![DCM](https://img.shields.io/badge/DCM-Document_Control-059669?style=for-the-badge&logo=googledrive&logoColor=white)
 ![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
 ![GxP Compliance](https://img.shields.io/badge/GxP_Validation-AI_in_QA-10B981?style=for-the-badge&logo=checkmarx&logoColor=white)
 
-#### Tools, Engineering & Workflow
+#### Tools, Engineering & Simulation
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Kate](https://img.shields.io/badge/Kate-KDE_Editor-1B8ECE?style=for-the-badge&logo=kde&logoColor=white)
+![Qt Designer](https://img.shields.io/badge/Qt_Designer_Linux-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![MARS MIPS](https://img.shields.io/badge/MARS-MIPS_Simulator-B31B1B?style=for-the-badge&logo=codeforces&logoColor=white)
+![Proteus](https://img.shields.io/badge/Proteus-Design_Suite-007ACC?style=for-the-badge&logo=circuitverse&logoColor=white)
+![Graphviz](https://img.shields.io/badge/Graphviz-247BA0?style=for-the-badge&logo=graphite&logoColor=white)
+![Doxygen](https://img.shields.io/badge/Doxygen-2C4155?style=for-the-badge&logo=readthedocs&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-Build_System-427819?style=for-the-badge&logo=gnu&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-![UML & Flowcharts](https://img.shields.io/badge/UML_&_Flowcharts-System_Design-8B5CF6?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity_2D-100000?style=for-the-badge&logo=unity&logoColor=white)
+![UML & Flowcharts](https://img.shields.io/badge/UML_%26_Flowcharts-System_Design-8B5CF6?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
+![Unity 2D](https://img.shields.io/badge/Unity_2D-100000?style=for-the-badge&logo=unity&logoColor=white)
 
 </div>
+
 
 ---
 
